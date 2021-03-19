@@ -20,5 +20,3 @@ int		main(void)
 		   printf("REAL  :%0.c\n", 'k');
 		printf("TABLE :0123456789\n");
 }
-
-
